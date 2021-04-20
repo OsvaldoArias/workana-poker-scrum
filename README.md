@@ -1,6 +1,6 @@
 # Challenge Workana Poker Scrum
 
-## Como funciona?
+## Cómo funciona?
 
 ### Participantes
 
@@ -14,10 +14,10 @@ Al iniciar el contenedor de docker por defecto se crea un equipo de tres partici
 
 Al iniciar se crea por defecto un issue #1 creado por el project manager
 
-### Interaciones
+### Interacciones
 
 Cada participante podrá votar en cada issue y una vez todos los participantes voten el issue quedara revelado.
-Cada participante podra crear un nuevo issue y quedará registrada su autoria.
+Cada participante podrá crear un nuevo issue y quedará registrada su autoria.
 
 ### Real Time
 
